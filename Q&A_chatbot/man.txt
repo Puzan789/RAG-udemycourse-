@@ -1,0 +1,461 @@
+EN
+User’s Guide
+fx-991CW
+fx-570CW
+https://edu.casio.com
+CASIO Worldwide Education Website
+https://world.casio.com/manual/calc/
+Manuals are available in multi languages at
+Table of Contents
+Before Using the Calculator ................................................... 5
+Read This First ........................................................................................5
+About This Manual ......................................................................................... 5
+Key Operations .............................................................................................. 5
+Menu Operations ............................................................................................6
+Key and Key ........................................................................................ 7
+Examples ....................................................................................................... 7
+Initializing the Calculator ......................................................................... 7
+Calculator "Get Started" Screen ............................................................. 7
+Precautions .............................................................................................8
+Safety Precautions ......................................................................................... 8
+Handling Precautions ................................................................................... 10
+Getting Started ......................................................................................10
+Attaching and Removing the Front Cover .................................................... 10
+Turning Power On and Off ........................................................................... 12
+HOME Screen .............................................................................................. 13
+Adjusting Display Contrast ........................................................................... 13
+Key Markings ............................................................................................... 13
+Indicators ......................................................................................................14
+Using Menus ................................................................................................ 15
+Calculator Apps and Menus ................................................. 17
+Calculator Apps .....................................................................................17
+Selecting a Calculator App ...........................................................................17
+Installed Calculator App List .........................................................................17
+Using the SETTINGS Menu ..................................................................19
+Changing Calculator Settings .......................................................................19
+Items and Available Setting Options ............................................................ 20
+Using the CATALOG Menu ................................................................... 25
+Using the TOOLS Menu ........................................................................25
+Inputting Expressions and Values ....................................... 27
+Basic Input Rules .................................................................................. 27
+Inputting an Expression Using Natural Textbook Format (MathI/MathO or
+MathI/DecimalO Only) ...........................................................................28
+Undo Operations .......................................................................................... 29
+Using Values and Expressions as Arguments ............................................. 29
+Overwrite Input Mode (LineI/LineO or LineI/DecimalO Only) ................29
+Basic Calculations .................................................................30
+Arithmetic Calculations ......................................................................... 30
+Fraction Calculations ............................................................................ 30
+Powers, Power Roots, and Reciprocals ................................................32
+1
+Pi, Natural Logarithm Base e ................................................................ 34
+Pi .................................................................................................................. 34
+Natural Logarithm Base e .............................................................................34
+Calculation History and Replay .............................................................34
+Calculation History ....................................................................................... 34
+Replay .......................................................................................................... 35
+Using Memory Functions ...................................................................... 35
+Answer Memory (Ans) ..................................................................................35
+Variables (A, B, C, D, E, F, x, y, z) ................................................................ 36
+Clearing the Contents of All Memories .........................................................38
+Changing Calculation Result Format .................................. 39
+Using the FORMAT Menu .....................................................................39
+FORMAT Menu List ......................................................................................39
+Conversion Sample Operation ..................................................................... 40
+Standard and Decimal Conversion ....................................................... 40
+Prime Factorization ............................................................................... 41
+Rectangular and Polar Coordinate Conversion .................................... 42
+Improper Fraction and Mixed Fraction Conversion ...............................43
+Engineering Notation ............................................................................ 43
+Sexagesimal Conversion (Degree, Minute, Second Calculations) ....... 44
+Converting a Decimal Value Calculation Result to a Sexagesimal Value .... 44
+Inputting and Calculating with a Sexagesimal Value ....................................45
+Advanced Calculations ......................................................... 46
+Function Analysis ..................................................................................46
+Derivative(d/dx) ............................................................................................ 46
+Integration(∫) .................................................................................................47
+Summation(Σ) .............................................................................................. 49
+Logarithm(logab), Logarithm(log) .................................................................50
+Natural Logarithm .........................................................................................50
+Probability ............................................................................................. 50
+% .................................................................................................................. 51
+Factorial(!) .................................................................................................... 51
+Permutation(P), Combination(C) ..................................................................51
+Random Number ..........................................................................................52
+Random Integer ........................................................................................... 52
+Numeric Calculations ............................................................................ 53
+Absolute Value ............................................................................................. 53
+Round Off .....................................................................................................53
+Angle Unit, Polar/Rectangular Coordinate, Sexagesimal ..................... 54
+Degrees, Radians, Gradians ........................................................................54
+Rect to Polar, Polar to Rect ..........................................................................54
+Degrees, Minutes, Seconds ......................................................................... 55
+Hyperbolic, Trigonometric ..................................................................... 55
+Hyperbolic Functions ....................................................................................55
+Trigonometric Functions ...............................................................................55
+2
+Engineering Symbols ............................................................................ 56
+Scientific Constants .............................................................................. 57
+Unit Conversions ...................................................................................58
+Others ................................................................................................... 60
+Registering and Using Defining Equations for f(x) and g(x)
+..................................................................................................61
+Registering and Using Defining Equations for f(x) and g(x) .................. 61
+Registering a Defining Equation ...................................................................61
+Performing a Calculation by Assigning a Value to the Registered Defining
+Equation ....................................................................................................... 62
+Registering a Composite Function ............................................................... 62
+Data Retention ............................................................................................. 63
+Using QR Code Functions .................................................... 64
+Using QR Code Functions .................................................................... 64
+Displaying a QR Code ..................................................................................64
+If You Experience Difficulty Scanning a QR Code ........................................65
+Using Calculator Apps .......................................................... 66
+Statistical Calculations .......................................................................... 66
+General Procedure for Performing a Statistical Calculation .........................66
+Inputting Data with Statistics Editor ..............................................................67
+Displaying Statistical Calculation Results .................................................... 70
+Using Statistical Calculation Screen ............................................................ 74
+Statistical Calculation Formula .....................................................................80
+Distribution Calculations ....................................................................... 83
+General Procedure for Performing a Distribution Calculation ...................... 84
+Parameter List ..............................................................................................85
+List Screen ................................................................................................... 86
+Editing the List Screen Contents ..................................................................87
+Calculation Example .................................................................................... 87
+Using Spreadsheet ............................................................................... 88
+Inputting and Editing Cell Contents ..............................................................88
+Inputting a Constant and Formula into a Cell ...............................................89
+Cell Relative and Absolute References ........................................................90
+Using Spreadsheet App Special Commands ............................................... 92
+Batch Inputting the Same Formula or Constant into Multiple Cells ..............93
+Spreadsheet App Setting Items ................................................................... 94
+Auto Calc and Recalculate ...........................................................................95
+Creating a Number Table ...................................................................... 95
+General Procedure for Creating a Number Table .........................................95
+Maximum Number of Rows in a Number Table According to Table Type .... 96
+Defining Equation Registration .....................................................................97
+Editing Number Table Screen Data ..............................................................97
+f(x) and g(x) Update Timing .......................................................................... 98
+Data Retention ............................................................................................. 99
+3
+Equation Calculations ........................................................................... 99
+Simultaneous Linear Equations ................................................................. 100
+High-order Equations from 2nd to 4th Degree ........................................... 101
+Using Solver ...............................................................................................105
+Inequality Calculations ........................................................................107
+General Procedure for Performing an Inequality Calculation .....................107
+Complex Number Calculations ........................................................... 109
+Inputting Complex Numbers .......................................................................109
+Complex App Calculation Examples .......................................................... 109
+Base-n Calculations .............................................................................111
+Specifying the Number Mode of a Particular Input Value ...........................113
+Converting a Calculation Result to Another Type of Value .........................113
+Logical and Negation Operations ............................................................... 114
+Matrix Calculations ..............................................................................114
+General Procedure for Performing a Matrix Calculation .............................114
+Matrix Variable List Screen .........................................................................116
+Matrix Answer Memory (MatAns) ............................................................... 119
+Matrix Calculation Examples ...................................................................... 119
+Vector Calculations ............................................................................. 122
+General Procedure for Performing a Vector Calculation ............................ 122
+Vector Variable List Screen ........................................................................ 124
+Vector Answer Memory (VctAns) ............................................................... 126
+Vector Calculation Examples ..................................................................... 126
+Ratio Calculations ............................................................................... 128
+General Procedure for Performing a Ratio Calculation ..............................128
+Calculation Example .................................................................................. 129
+Using Math Box ...................................................................................129
+Dice Roll .....................................................................................................129
+Coin Toss ................................................................................................... 133
+Technical Information ......................................................... 137
+Errors .................................................................................................. 137
+Displaying the Location of an Error ............................................................ 137
+Error Messages ..........................................................................................137
+Before Assuming Malfunction of the Calculator... ............................... 141
+Replacing the Battery ..........................................................................141
+Calculation Priority Sequence .............................................................143
+Calculation Ranges, Number of Digits, and Precision ........................ 144
+Calculation Range and Precision ............................................................... 144
+Function Calculation Input Ranges and Precision ..................................... 144
+Specifications ......................................................................................147
+Frequently Asked Questions ..............................................148
+Frequently Asked Questions ...............................................................148
+4
+Before Using the Calculator
+Read This First
+About This Manual
+• In no event shall CASIO Computer Co., Ltd. be liable to anyone for
+special, collateral, incidental, or consequential damages in connection
+with or arising out of the purchase or use of this product and items that
+come with it. Moreover, CASIO Computer Co., Ltd. shall not be liable for
+any claim of any kind whatsoever by any other party arising out of the
+use of this product and the items that come with it.
+• The contents of this manual are subject to change without notice.
+• The displays and illustrations (such as key markings) shown in this
+manual are for illustrative purposes only, and may differ somewhat from
+the actual items they represent.
+• QR Code is a registered trademark of DENSO WAVE INCORPORATED
+in Japan and in other countries.
+• Company and product names used in this manual may be registered
+trademarks or trademarks of their respective owners.
+Key Operations
+The example below shows how key operations are represented in this
+manual.
+Example 1:
+Keys should be pressed in the sequence shown above (left to right).
+Example 2: (π)*
+The above indicates you should press and then , which will input
+a π symbol. All multiple-key input operations are indicated like this. Key
+cap markings are shown, followed by the input character or command in
+parentheses.
+5
+* Refer to "Key Markings" (page 13) for more information about the key
+symbols used in this example.
+Example 3: , , , , ,
+• Individual cursor keys indicated by (1) are represented as , , ,
+.
+• Individual page scroll keys indicated by (2) are represented as , .
+Menu Operations
+Some operations in this manual use a simplified form of menu operations,
+as shown in the examples below.
+Example 1
+– [Other] > [π]
+or
+Press , and then select [Other] > [π].
+Actual Operation 1
+1. Press .
+2. Use and to select [Other], and then press .
+3. Use and to select [π], and then press .
+Example 2
+- Calculate
+or
+6
+Press , select the Calculate app icon, and then press .
+Actual Operation 2
+1. Press .
+2. Use the cursor keys ( , , , ) to select the Calculate app icon,
+and then press .
+Key and Key
+The key and key perform the same operation. In this manual, is
+used for selecting or applying a setting, while is used for executing a
+calculation. Note, however, that it makes no difference whether you press
+or for operations where either or is shown.
+Examples
+If you are not instructed to use a specific calculator app or to configure
+particular settings for an example operation, the app and settings below
+are assumed.
+Calculator app: Calculate
+Settings: Initial default calculator settings
+For information about returning the calculator to its initial default settings,
+see "Initializing the Calculator" (page 7).
+Initializing the Calculator
+Important!
+• The procedure below initializes all calculator settings, except for Contrast and Auto
+Power Off. Also clears all data stored in calculator memory.
+1. Press to display the HOME screen.
+2. Use the cursor keys ( , , , ) to select a calculator app icon,
+and then press .
+3. Press , and then select [Reset] > [Initialize All] > [Yes].
+• This displays the HOME screen.
+Calculator "Get Started" Screen
+While the HOME screen is displayed, pressing the key will display the
+"Get Started" screen, which includes the information below.
+7
+• QR Code for accessing the "Get Started" webpage of the Worldwide
+Education Service (https://wes.casio.com/calc/cw/)
+The Get Started webpage gives you access to the User’s Guide and
+other related information to help you get started with your calculator.
+• Calculator ID number (24-character string)
+Press to return to the HOME screen.
+Note
+• You can also display the Get Started screen, by selecting it from the SETTINGS menu.
+See "Using the SETTINGS Menu" (page 19).
+Precautions
+Safety Precautions
+Thank you for purchasing this CASIO product.
+Be sure to read the "Safety Precautions" before using this product to
+ensure that you use it correctly. Be sure to keep all user documentation
+handy for future reference.
+Danger
+Indicates something that creates the major risk of death or
+serious personal injury.
+Button Type and Coin Type Battery Precautions
+(fx-991CW only)
+Take care to ensure that a battery will not be swallowed
+accidentally.
+Particular care is required to keep batteries away from
+children.
+Should a battery be swallowed accidentally or if there is a possibility
+that a battery has been swallowed, immediately contact a physician.
+Swallowing a battery can result in chemical burns, mucosal tissue
+penetration, and other serious problems that create the risk of death.
+Warning
+Indicates something that creates the risk of death or serious
+personal injury.
+8
+Display Screen
+Do not press the LCD or subject it to strong impact.
+Doing so can cause the LCD glass to crack, creating the risk of
+personal injury.
+Should the LCD become cracked, never touch any of the
+liquid inside.
+LCD liquid getting on the skin creates the risk of skin irritation.
+Should LCD liquid get into your mouth, immediately rinse your mouth
+out and contact your physician.
+Should LCD liquid get in your eyes or on your skin, rinse with clean
+water and then contact your physician.
+Battery Precautions
+Should fluid leaking from a battery get on your skin or
+clothing, immediately rinse it off with clean water.
+Battery fluid getting into the eyes creates the risk of eyesight loss, etc.
+Rinse the eyes and then immediately contact a physician.
+Caution
+Indicates something that creates the risk of minor personal injury
+or physical damage.
+Observe the precautions below. Failure to do so can cause a
+battery to rupture, creating the risk of fire, personal injury, and
+soiling of nearby objects by leaking fluid.
+• Do not try to take a battery apart and never allow a battery to
+become shorted.
+• Do not charge a non-rechargeable battery.
+• Do not expose a battery to heat or throw it into fire.
+• Use only the specified type of battery.
+• Load a battery with its poles (plus (+) and minus (–)) facing
+correctly.
+• Replace the battery as soon as possible after it goes dead.
+9
+Battery Precautions
+Observe the precautions below. Failure to do so can cause
+the battery to explode or leak flammable liquid or gas.
+• Use only the type of battery that is specified for this product.
+• Do not burn a battery or dispose of it in an incinerator, or by
+mechanical crushing or cutting.
+• Do not subject a battery to excessively high or low temperatures
+during use, storage, or transport.
+• Do not subject a battery to excessively low barometric pressure
+during use, storage, or transport.
+Handling Precautions
+• fx-570CW: Even if the calculator is operating normally, replace the
+battery at least once every two years (R03).
+fx-991CW: Even if the calculator is operating normally, replace the
+battery at least once every two years (LR44).
+A dead battery can leak, causing damage to and malfunction of the
+calculator. Never leave a dead battery in the calculator. Do not try using
+the calculator while the battery is completely dead (fx-991CW).
+• You will be charged for malfunction or damage due to battery leakage,
+which is not covered by the warranty.
+• The battery that comes with the calculator discharges slightly during
+shipment and storage. Because of this, it may require replacement
+sooner than the normal expected battery life.
+• Avoid use and storage of the calculator in areas subjected to
+temperature extremes, and large amounts of humidity and dust.
+• Do not subject the calculator to excessive impact, pressure, or bending.
+• Never try to take the calculator apart.
+• Use a soft, dry cloth to clean the exterior of the calculator.
+• Whenever discarding the calculator or batteries, be sure to do so in
+accordance with the laws and regulations in your particular area.
+Getting Started
+Attaching and Removing the Front Cover
+To remove the front cover
+Before using the calculator, remove the front cover (①) and attach it to the
+back (②).
+10
+To attach the front cover
+When you are not using the calculator, remove the front cover (①) and
+attach it to the front (②).
+11
+Important!
+• Always attach the front cover to the calculator whenever you are not using it.
+Otherwise, accidental operation of the key can cause the power to turn on and
+run down the battery.
+Turning Power On and Off
+Press to turn on the calculator.
+Press (OFF) to turn off the calculator.
+Note
+• To turn on power, long-press . To avoid turning on power accidentally, the top of
+key is slightly lower than the other keys.
+• If the screen shown below appears right after you turn on power, it means that
+remaining battery power is low.
+If this screen appears, replace the battery as soon as possible. For details about
+battery replacement, see "Replacing the Battery" (page 141).
+• The calculator also will turn off automatically after approximately 10 minutes or 60
+minutes of non-use. Press the key to turn the calculator back on.
+12
+HOME Screen
+Pressing displays the HOME screen. The HOME screen shows a list of
+installed calculator apps.
+HOME Screen Calculate App Screen
+For information about installed calculator apps, see "Installed Calculator
+App List" (page 17).
+Adjusting Display Contrast
+1. Press , select a calculator app icon, and then press .
+2. Press , and then select [System Settings] > [Contrast].
+3. Use and to adjust display contrast.
+4. After the setting is the way you want, press .
+Important!
+• If adjusting display contrast does not improve display readability, it probably means
+that battery power is low. Replace the battery.
+Key Markings
+Pressing the key followed by a second key performs the alternate
+function of the second key. The alternate function is indicated by the text
+printed above the key, on the left.
+(1) Keycap function:
+(2) Alternate function: (π)
+13
+Indicators
+Indicators
+The table below describes indicators that appear at the top of the screen.
+This indicator: Means this:
+The keypad has been shifted by pressing the
+key. The keypad will unshift and this indicator will
+disappear when you press a key.
+MathI/MathO or MathI/DecimalO is selected for
+Input/Output on the SETTINGS menu.
+/ / Current setting of Angle Unit ( : Degree, :
+Radian, or : Gradian) on the SETTINGS menu.
+FIX A fixed number of decimal places is in effect.
+SCI A fixed number of significant digits is in effect.
+E On is selected for Engineer Symbol on the
+SETTINGS menu.
+i/∠ Current setting of Complex Result (i : a+bi or ∠:
+r∠θ) on the SETTINGS menu.
+/
+There is previous ( ) or following ( ) calculation
+history for the currently displayed calculation
+result. With some calculator apps, these
+indicators indicate there are other calculation
+results available.
+Calculator is being powered directly by its solar
+cells, either entirely or in some combination with
+the battery. (fx-991CW only)
+14
+Using Menus
+Many of the operations of your calculator are performed using menu
+screens. The example below shows operations starting from the menu
+screen that appears when you press .
+Selecting a Menu Item
+To select a menu item, use the cursor keys ( , , , ) to highlight
+it and then press . Note that and are used only when there are
+multiple menu item columns.
+Navigating Between Menu Hierarchies
+The " " indicator to the right of a menu item means that there are lower
+hierarchy levels under that item. Selecting the menu item and pressing
+or navigates the next lower level of the hierarchy. To return to the next
+upper level of the hierarchy, press .
+Note
+• If you are in a lower level of the hierarchy of a one-column menu, you can press in
+addition to to return to the next higher level.
+Selecting a Menu Item with a Radio Button ( / )
+When the display shows a list of multiple options, each option will have a
+radio button ( or ) to its left. indicates the currently selected option.
+15
+To configure the setting of a radio button menu item
+1. Highlight the applicable menu item and then press .
+• What happens next depends on the type of menu item you selected.
+- If there are no more settings to configure for the menu item you
+selected, the radio button next to it will change to .
+- The menu item you selected has more settings to configure, a
+screen for selecting the menu item setting will appear. In this case,
+proceed to step 2.
+2
